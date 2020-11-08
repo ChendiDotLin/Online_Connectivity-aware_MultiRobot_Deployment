@@ -1,6 +1,10 @@
+# Overview
+
+This is the demonstration work of my master thesis work: https://www.ri.cmu.edu/publications/online-connectivity-aware-dynamic-distribution-for-heterogeneous-multi-robot/. It is based on the framework of Behavior Mixing and dynamically distribute the heterogeneous robots both on the allocation level and the control level. 
+
 # MATLAB Version 
 
-Currently, we know that the simulator works with MATLAB 2014b and higher.  The backwards compatibility issues are mostly due to changes in the way MATLAB handles figures in newer releases.
+Currently, we know that the simulator works with MATLAB 2018b and higher.  The backwards compatibility issues are mostly due to changes in the way MATLAB handles figures in newer releases.
 
 # Required Toolboxes 
 
@@ -11,7 +15,7 @@ MATLAB simulator for the Robotarium!  The purpose of the Robotarium simulator is
 
 # Usage 
 
-First, take a look at the "examples" folder for a few, simple examples.  Note that, to run these examples, you must first run the "init.m" script to add the requisite directories.  
+First, take a look at the "examples/go_to_goal/dynamic_distribution" folder for a few, simple examples.  Note that, to run these examples, you must first run the "init.m" script to add the requisite directories.  
 
 # Documentation 
 

@@ -1,6 +1,6 @@
 # Overview
 
-This is the demonstration work of my master thesis work: https://www.ri.cmu.edu/publications/online-connectivity-aware-dynamic-distribution-for-heterogeneous-multi-robot/. It is based on the framework of Behavior Mixing and dynamically distribute the heterogeneous robots both on the allocation level and the control level. 
+This is the demonstration work of my master thesis: https://www.ri.cmu.edu/publications/online-connectivity-aware-dynamic-distribution-for-heterogeneous-multi-robot/. It is based on the framework of Behavior Mixing and dynamically distribute the heterogeneous robots both on the allocation level and the control level. 
 
 # MATLAB Version 
 
